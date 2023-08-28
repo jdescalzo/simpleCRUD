@@ -1,0 +1,51 @@
+TaskID,TaskName,Priority,Status,StartDate,DueDate,Assigned
+1,Finish Report,High,In Progress,2023-08-28,2023-09-05,John
+2,Update Website,Medium,Not Started,2023-08-29,2023-09-10,Amy
+3,Client Meeting,High,Completed,2023-08-25,2023-08-25,David
+4,Research Proposal,Low,Not Started,2023-08-30,2023-09-07,Emily
+5,Code Refactoring,Medium,In Progress,2023-08-27,2023-09-03,Michael
+6,Design UI Mockups,High,Completed,2023-08-20,2023-08-25,Linda
+7,Test Application,Medium,Not Started,2023-08-31,2023-09-08,Robert
+8,Review Contracts,Low,Not Started,2023-08-29,2023-09-06,Susan
+9,Update User Manual,Medium,In Progress,2023-08-26,2023-09-04,Andrew
+10,Project Presentation,High,Completed,2023-08-22,2023-08-26,Grace
+11,Data Analysis,Medium,Not Started,2023-08-30,2023-09-10,Brian
+12,Marketing Campaign,High,In Progress,2023-08-28,2023-09-05,Olivia
+13,Client Feedback,Low,Completed,2023-08-23,2023-08-28,Daniel
+14,Prepare Budget,Medium,Not Started,2023-08-29,2023-09-07,Victoria
+15,Code Review,High,Not Started,2023-08-31,2023-09-09,Chris
+16,Content Writing,Low,In Progress,2023-08-26,2023-09-03,Alice
+17,Meeting Scheduling,Medium,Completed,2023-08-24,2023-08-24,Kevin
+18,Feature Development,High,Not Started,2023-08-27,2023-09-06,Michelle
+19,Database Optimization,Medium,In Progress,2023-08-25,2023-09-02,James
+20,Market Research,Low,Completed,2023-08-21,2023-08-26,Sophia
+21,Product Testing,Medium,Not Started,2023-08-30,2023-09-08,William
+22,Content Planning,High,In Progress,2023-08-28,2023-09-04,Emma
+23,Financial Analysis,Low,Completed,2023-08-23,2023-08-28,Nicholas
+24,App Debugging,Medium,Not Started,2023-08-29,2023-09-06,Chloe
+25,Training Session,High,Not Started,2023-08-31,2023-09-07,Mason
+26,Social Media Posts,Medium,In Progress,2023-08-26,2023-09-03,Ava
+27,Report Presentation,Low,Completed,2023-08-22,2023-08-27,Ethan
+28,Website Optimization,High,Not Started,2023-08-27,2023-09-05,Isabella
+29,Project Planning,Medium,In Progress,2023-08-25,2023-09-01,Jackson
+30,Client Onboarding,Low,Completed,2023-08-20,2023-08-25,Oliver
+31,Code Deployment,Medium,Not Started,2023-08-29,2023-09-07,Sophie
+32,Meeting Preparation,High,In Progress,2023-08-28,2023-09-03,Aiden
+33,Market Analysis,Low,Completed,2023-08-23,2023-08-28,Harper
+34,Feature Integration,Medium,Not Started,2023-08-31,2023-09-09,Mia
+35,Database Migration,High,Not Started,2023-08-26,2023-09-05,Liam
+36,Content Editing,Medium,In Progress,2023-08-24,2023-09-02,Evelyn
+37,Client Communication,Low,Completed,2023-08-21,2023-08-26,Noah
+38,Software Update,Medium,Not Started,2023-08-30,2023-09-07,Abigail
+39,Design Feedback,High,In Progress,2023-08-29,2023-09-04,Aiden
+40,Financial Planning,Low,Completed,2023-08-25,2023-08-30,Charlotte
+41,User Support,Medium,Not Started,2023-08-31,2023-09-09,James
+42,Feature Testing,High,Not Started,2023-08-28,2023-09-06,Amelia
+43,Content Creation,Medium,In Progress,2023-08-27,2023-09-03,Henry
+44,Client Follow-up,Low,Completed,2023-08-23,2023-08-28,Elizabeth
+45,Code Documentation,Medium,Not Started,2023-08-30,2023-09-08,Benjamin
+46,Strategic Planning,High,In Progress,2023-08-29,2023-09-05,Ella
+47,Market Outreach,Low,Completed,2023-08-25,2023-08-30,Sebastian
+48,App Development,Medium,Not Started,2023-08-31,2023-09-09,Avery
+49,Team Training,High,In Progress,2023-08-28,2023-09-04,Scarlett
+50,Inventory Check,Low,Completed,2023-08-24,2023-08-28,Jack
