@@ -1,6 +1,5 @@
 import sqlite3
 import pandas as pd
-import os
 
 sample_data = "sample.csv"
 
