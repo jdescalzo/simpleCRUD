@@ -13,13 +13,10 @@ def initialize_database():
     try:
         cursor.execute('''
             CREATE TABLE tasks (
-                TaskID INTEGER PRIMARY KEY,
-                TaskName TEXT NOT NULL,
-                Priority TEXT,
-                Status TEXT,
-                StartDate DATETIME,
+                ID INTEGER PRIMARY KEY,
+                Name TEXT NOT NULL,
                 DueDate DATETIME,
-                Assigned TEXT
+                Status TEXT
             )
         ''')
     except:

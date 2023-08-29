@@ -12,8 +12,7 @@ def list():
 
     # Display tasks to the user
     for task in tasks:
-        print(f"Task ID: {task[0]}\nTask Name: {task[1]}\nPriority: {task[2]}\nStatus: {task[3]}\n"
-              f"Start date: {task[4]}\nDue date: {task[5]}\nAssigned to: {task[6]}\n")
+        print(f"Task ID: {task[0]}\nTask Name: {task[1]}\nDueDate: {task[2]}\nStatus: {task[3]}\n")
 
     # Close the connection
     conn.close()
