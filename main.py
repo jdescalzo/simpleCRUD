@@ -1,9 +1,7 @@
 import argparse
 
 import database
-import list as l
-import add as a
-import clear as c
+import queries as q
 
 
 database.initialize_database()
@@ -19,15 +17,13 @@ def main():
 
     if args.add:
         task_name = args.add
-        print(f"Adding task: {task_name}")
-        a.add(task_name)
+        q.add(task_name)
 
     if args.list:
-        l.list()
+        q.list()
 
     if args.clear:
-        c.clear()
-        print(f"New records cleared")
+        q.clear()
 
 if __name__ == "__main__":
     main()
