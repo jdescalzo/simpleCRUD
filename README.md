@@ -1,5 +1,4 @@
-# simpleCRUD
-# To-Do List Manager
+# simpleCRUD: To-Do List Manager
 
 A simple command-line application to manage your to-do list using Python and SQLite.
 
@@ -16,7 +15,7 @@ This project is a basic to-do list manager that allows users to add tasks, list 
 
 - --------------------------------------------------------------------------------------------------------
 
-- # Gestor de Lista de Tareas
+# Gestor de Lista de Tareas
 
 Una sencilla aplicación de línea de comandos para gestionar tu lista de tareas utilizando Python y SQLite.
 
